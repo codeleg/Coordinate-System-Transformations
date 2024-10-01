@@ -1,11 +1,18 @@
 # Coordinate-System-Transformations
-Implementation of Coordinate System Transformations
 
- Three Python similar processes were carried out for the implementation of the Coordinate System Transformations project, but different results were obtained. Although the scenario contains unique features, it was prepared according to the activities specified for our purpose. We would appreciate it if you could write your daily comments to fully evaluate which script's stated task contains no logical errors.
+TEMA : Implementation of Coordinate System Transformations
+
+Note : Three Python similar processes were carried out for the implementation of the Coordinate System Transformations project, but different results were obtained. Although the scenario contains unique features, it was prepared according to the activities specified for our purpose. We would appreciate it if you could write your daily comments to fully evaluate which script's stated task contains no logical errors.
+ 
+ 1-CorrectDisctanResult.py : script makes accurate distance calculations and prints the points that are farthest from each other on the screen, which makes this script attractive.
+ 
+ 2-GpsCleanResult.py : It gives a clean output and performs all the steps in the task as stated in the comments, but it does not print the inverse transformation formulas and distance differences on the console. also shows all created points on the graph
+ 
+ 3-GpsAndGraphCalculation.py : This script allows the graphics to be drawn more beautifully and all transactions can be read on the console, very close to the procedure.
  
  ---TheTasks---
+ 
 Transition Between Coordinate Systems:
-
 Two-Dimensional Space: Cartesian and Polar Coordinate Systems
 
 Define the coordinates of several points in the polar coordinate system.
